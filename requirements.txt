@@ -1,0 +1,2 @@
+pynput==1.7.6
+jsonpath==0.82.2
